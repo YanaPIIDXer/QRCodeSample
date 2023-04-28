@@ -10,7 +10,7 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "node-webcam": "^0.8.0",
+    "node-webcam": "^0.8.1",
     "qrcode": "^1.5.3",
     "vue": "^3.2.47"
   },
