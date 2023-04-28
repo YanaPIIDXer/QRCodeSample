@@ -10,6 +10,7 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "jsqr": "^1.4.0",
     "qrcode": "^1.5.3",
     "vue": "^3.2.47",
     "vue3-qr-reader": "^1.0.0"
