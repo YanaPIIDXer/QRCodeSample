@@ -12,7 +12,7 @@
   "dependencies": {
     "qrcode": "^1.5.3",
     "vue": "^3.2.47",
-    "vue-qrcode-reader": "^3.1.6"
+    "vue3-qr-reader": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^18.14.2",
