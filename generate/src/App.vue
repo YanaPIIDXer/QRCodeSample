@@ -21,10 +21,14 @@ onMounted(async () => {
 
 <template>
   <div class="root">
-    <img v-if="qrCode" :src="qrCode" />
+    <img v-if="qrCode" class="qrCode" :src="qrCode" />
     <span v-else>読み込み中</span>
   </div>
 </template>
 
 <style lang="sass" scoped>
+.root
+  .qrCode
+    width: 256px
+    height: 256px
 </style>
